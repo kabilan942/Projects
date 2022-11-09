@@ -2,7 +2,7 @@
 
 ## KPMG:
 
-### Task 2:
+### Task 2 - Data Insights:
 
 **Raw Data:** KPMG_Task2_Data_Excel.xlsx
 
