@@ -2,7 +2,7 @@
 
 ## IITM Data Science Diploma Final Project
 
-E-Commerce Shopper’s Behaviour Understanding 
+**E-Commerce Shopper’s Behaviour Understanding**
 
 Machine Learning | Community Prediction Competition - Kaggle | March 2023
 
