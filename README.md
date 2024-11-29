@@ -10,6 +10,8 @@ Machine Learning | Community Prediction Competition - Kaggle | March 2023
 
 * Developed and fine-tuned predictive models, including AdaBoost and XGBoost among others, achieving an F1 score of 0.646. Conducted hyperparameter tuning using GridSearchCV for optimal performance.
 
+## Practice:
+* Contains some of the projects done in the past.
 
 ## KPMG:
 
