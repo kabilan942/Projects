@@ -6,13 +6,9 @@
 
 Machine Learning | Community Prediction Competition - Kaggle | March 2023
 
-● To understand the online shopper purchasing pattern with the users’ session data collected for a year.
-It is a binary classification problem to predict whether the user has made a purchase or not during
-that year. The evaluation metric for this competition is F1-Score.
+* Predicted customer purchases for an e-commerce client by cleaning and preprocessing user session data, addressing missing and skewed values using median imputation and robust scaling. Prepared features with one-hot encoding and stratified sampling to ensure balanced data representation.
 
-● Performed data pre-processing, trained baseline models and performed Hyperparameter-Tuning on best performing models.
-
-● Achieved a F1 score of 0.64615.
+* Developed and fine-tuned predictive models, including AdaBoost and XGBoost among others, achieving an F1 score of 0.646. Conducted hyperparameter tuning using GridSearchCV for optimal performance.
 
 
 ## KPMG:
